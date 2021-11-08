@@ -6,7 +6,7 @@ namespace LearningArrays
     {
         static void Main(string[] args)
         {
-            String[] Colors = { "Balta", "Zalia", "Geltona", "Raudona", "Melyna" };
+            String[] Colors = { "White", "Green", "Yellow", "Red", "Blue" };
 
             Console.WriteLine("Array of colors:");
 
