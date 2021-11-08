@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.exe
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.deps.json
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.runtimeconfig.json
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.dll
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\bin\Debug\netcoreapp3.1\LearningArrays.pdb
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.dll
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.pdb
+C:\Users\Administrator\Desktop\Sandros\LearningDotNet\LearningArrays\obj\Debug\netcoreapp3.1\LearningArrays.genruntimeconfig.cache
